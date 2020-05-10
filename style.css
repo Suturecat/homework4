@@ -1,0 +1,84 @@
+.wrapper {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid  rgb(41, 41, 87);
+}
+
+.header {
+    background-color: rgb(41, 41, 87);
+    border-bottom: 2px solid white;
+    padding: 20px;
+}
+
+.logo {
+    background: url(images/logo.png) center center / contain no-repeat;
+    padding: 16px;
+}
+
+.logo-link {
+    background: url(images/logo.png) center center / contain no-repeat;
+    padding: 12px;
+}
+
+.header-link {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.header-link:hover {
+    text-decoration: underline;
+}
+
+.main-picture {
+    background-image: url(images/main.jpg);
+    height: 500px;
+    background-size: cover;
+}
+
+.mid {
+    background-color: rgb(41, 41, 87);
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 25px;
+    color: white;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+.main-text {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding: 15px 30px;
+    font-weight: lighter;
+    font-size: 13px;
+}
+
+.footer {
+    background-color: rgb(41, 41, 87);
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: orange;
+    padding: 15px 0 0 30px;
+    margin: 0px;
+}
+
+.address {
+    color: orange;
+    margin: 5px 0 5px 0;
+    padding-left: 30px;
+}
+
+.info {
+    color: white;
+    padding-left: 30px;
+    padding-bottom: 5px;
+}
